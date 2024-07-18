@@ -6,15 +6,11 @@ void main() {
   if (name==storedName){
     print('Match!');
   }
-  //
-  //
   if (wrongName == storedName){
     print('Match!');
   }else{
     print("Not a Match!");
   }
-  //
-  //
   if (wrongName == storedName){
     print('Match!');
   }else if(wrongName[wrongName.length-1] =='g'){
